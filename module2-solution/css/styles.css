@@ -23,7 +23,7 @@ h1 {
 .section {
     background-color: #e0e0e0;
     border: 1px solid black;
-    padding: 20px;
+    padding: 40px 20px 20px 20px; /* Añadido espacio extra arriba */
     margin: 10px;
     position: relative;
     flex: 1;
@@ -72,5 +72,3 @@ h1 {
         flex: 1 1 100%;
     }
 }
-
-
